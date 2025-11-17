@@ -28,8 +28,6 @@ I am a passionate **Data Analyst** focused on turning raw data into meaningful i
 - 📊 **Microsoft Power BI Data Analyst (PL-300) Training**  
 - 🔵 **Microsoft Azure Data Fundamentals — DP-900 Exam Prep**  
 
-> *You can add links to certificates later.*
-
 ---
 
 ## 🧰 **Tech Stack**
@@ -64,7 +62,7 @@ I am a passionate **Data Analyst** focused on turning raw data into meaningful i
 
 ---
 
-## 🚀 **Featured Projects (Recommended for You to Add)**
+## 🚀 **Featured Projects (....)**
 
 ### 📌 **1. Sales Dashboard (Power BI)**
 - KPI tracking, sales trends, forecasting  
@@ -90,7 +88,7 @@ I am a passionate **Data Analyst** focused on turning raw data into meaningful i
 
 ## 🌐 **Connect With Me**
 - GitHub: https://github.com/chathuranga-sudusinghe  
-- LinkedIn: *(Add your profile link here)*  
+- LinkedIn: https://www.linkedin.com/in/chathuranga-sudusinghe-991292131
 
 ---
 
