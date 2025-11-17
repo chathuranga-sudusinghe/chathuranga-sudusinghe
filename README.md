@@ -33,7 +33,8 @@ I am a passionate **Data Analyst** focused on turning raw data into meaningful i
 ## 🧰 **Tech Stack**
 ### 🔹 *Programming & Analytics*
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
-- SQL (MySQL, PostgreSQL, MS SQL Server, BigQuery)  
+- SQL (MySQL, PostgreSQL, MS SQL Server, BigQuery)
+- R (Tidyverse, ggplot2, dplyr, readr, RStudio, R Markdown)  
 
 ### 🔹 *Business Intelligence*
 - Power BI  
