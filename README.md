@@ -39,7 +39,8 @@ I am a passionate **Data Analyst** focused on turning raw data into meaningful i
 ### 🔹 *Business Intelligence*
 - Power BI  
 - Tableau  
-- Excel (Advanced)  
+- Excel (Advanced)
+- Looker 
 
 ### 🔹 *Cloud & Data Platforms*
 - Google Cloud Platform (BigQuery, Cloud Storage)  
