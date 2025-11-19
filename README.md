@@ -84,8 +84,6 @@ I am a passionate **Data Analyst** focused on turning raw data into meaningful i
 - Ad spend ROI  
 - Attribution modeling basics  
 
-> I can generate any of these projects for you if you want templates.
-
 ---
 
 ## 🌐 **Connect With Me**
