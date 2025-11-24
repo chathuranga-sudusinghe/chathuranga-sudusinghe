@@ -37,9 +37,18 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
 - EDA, visualization, statistics  
 - Feature engineering & modeling  
 
-## 🔹 Business Intelligence  
+## 🔹 Business Intelligence
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,excel" />
+
+  <!-- Power BI -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40" />
+
+  <!-- Tableau -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau-icon.svg" height="40" />
+
+<!-- Excel -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" />
+  
 </p>
 
 ## 🔹 Cloud  
@@ -47,9 +56,36 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
   <img src="https://skillicons.dev/icons?i=gcp,azure,aws" />
 </p>
 
-## 🔹 Tools  
+## 🔹 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode,linux" />
+
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+
+  <!-- Kaggle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
+
+  <!-- Anaconda -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
+  <!-- Markdown -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40"/>
+
 </p>
 
 ---
@@ -61,9 +97,15 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
 ---
 
 # 🏅 Certifications  
-Google Data Analytics • SQL for Data Science • Meta Marketing Analytics  
-• Power BI PL-300 • Google Python Analytics • Google Cloud Analytics • Statistics for Data Science
-• Microsoft Azure • Statistics & Data Visualization  
+- Google Data Analytics
+- SQL for Data Science
+- Meta Marketing Analytics
+- Power BI PL-300
+- Google Python Analytics
+- Google Cloud Analytics
+- Statistics for Data Science
+- Microsoft Azure Analytics
+- Statistics & Data Visualization  
 
 ---
 
