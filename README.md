@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Chathuranga Sudusinghe**  
-### **Data Analyst | Python | SQL | R | GCP | Azure | Tableau | Power BI Dashboards | Marketing Analytics**
+### **Data Analyst | Python | SQL | R | GCP | Azure | Tableau | Power BI | Marketing Analytics**
 
 [![Profile views](https://komarev.com/ghpvc/?username=chathuranga-sudusinghe&style=flat-square&color=blueviolet)](https://github.com/chathuranga-sudusinghe)
 
