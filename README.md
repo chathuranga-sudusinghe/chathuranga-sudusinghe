@@ -117,6 +117,18 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuranga-sudusinghe&layout=compact&theme=dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chathuranga-sudusinghe&show_icons=true&theme=dark" />
+  <img height="160" src="https://streak-stats.demolab.com?user=chathuranga-sudusinghe&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathuranga-sudusinghe&theme=tokyo-night" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chathuranga-sudusinghe&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+</p>
+
 # 🌐 Connect  
 🔗 LinkedIn: https://www.linkedin.com/in/chathuranga-sudusinghe-991292131  
 📁 GitHub: https://github.com/chathuranga-sudusinghe  
