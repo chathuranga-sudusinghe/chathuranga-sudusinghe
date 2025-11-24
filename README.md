@@ -13,10 +13,22 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
 
 # 🧠 Core Skills
 
-## 🔹 Programming & Analytics  
+
+ ## 🔹 Programming & Analytics
 <p>
+  <!-- Main Languages -->
   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,r" />
+
+  <!-- JupyterLab -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/jupyter.svg" height="40" />
+
+  <!-- Google Colab -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlecolab.svg" height="40" />
+
+  <!-- BigQuery -->
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="40" />
 </p>
+
 
 ### Python • SQL • R 
 - Data cleaning & automation  
