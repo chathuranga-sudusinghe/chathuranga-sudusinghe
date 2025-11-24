@@ -16,17 +16,19 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
 
  ## 🔹 Programming & Analytics
 <p>
-  <!-- Main Languages -->
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,r" />
 
-  <!-- JupyterLab -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/jupyter.svg" height="40" />
+  <!-- Python, SQLite, MySQL, PostgreSQL, R -->
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,postgres,r,googlecloud" />
 
-  <!-- Google Colab -->
+  <!-- Jupyter (white icon, dark-mode safe) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+
+ <!-- Google Colab -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlecolab.svg" height="40" />
 
   <!-- BigQuery -->
   <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="40" />
+
 </p>
 
 
