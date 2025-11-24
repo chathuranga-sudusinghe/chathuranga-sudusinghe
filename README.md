@@ -1,5 +1,3 @@
-
-
 <h1 align="center">👋 Hi, I'm <strong>Chathuranga Sudusinghe</strong></h1>
 <h3 align="center">Data Analyst | Python | SQL | R | Power BI | Tableau | Cloud</h3>
 
