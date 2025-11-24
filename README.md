@@ -66,7 +66,7 @@ I am a passionate **Data Analyst** focused on turning raw data into meaningful i
 
 ## 🚀 **Featured Projects (....)**
 
-### 📌 **1. Sales Dashboard (Power BI)**
+### 📌 **1. Sales Dashboard (Power BI | Tableau)**
 - KPI tracking, sales trends, forecasting  
 - Uses Power BI advanced visuals, DAX formulas  
 
