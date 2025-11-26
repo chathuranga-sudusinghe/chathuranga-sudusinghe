@@ -128,5 +128,6 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
 # 🌐 Connect  
 🔗 LinkedIn: https://www.linkedin.com/in/chathuranga-sudusinghe-991292131  
 📁 GitHub: https://github.com/chathuranga-sudusinghe  
+📁 Kaggle: https://www.kaggle.com/indrajithsudusinghe
 
 ---
