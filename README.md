@@ -121,7 +121,6 @@ I turn raw data into insights, models, dashboards, and strategic decisions.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuranga-sudusinghe&layout=compact&theme=dark" />
   <img height="160" src="https://streak-stats.demolab.com?user=chathuranga-sudusinghe&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chathuranga-sudusinghe&theme=tokyo-night" width="80%" height="250" />
-  <img src="https://github-profile-trophy.vercel.app/?username=chathuranga-sudusinghe&theme=tokyonight&margin-w=10&no-frame=true"  width="70%" />
 </p>
 
 </p>
