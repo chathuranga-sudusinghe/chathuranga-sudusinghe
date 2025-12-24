@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chathuranga Sudusinghe  
 
-**Aspiring AI Data Scientist | Python | SQL | ML | Cloud | Business Analytics**
+**Aspiring AI Data Scientist | Python | SQL | R| ML | Cloud | Business Analytics**
 
 I am a data professional blending **strong technical skills** with **business acumen** to transform raw data into **actionable insights, predictive models, and intelligent decision-support systems**.  
 
