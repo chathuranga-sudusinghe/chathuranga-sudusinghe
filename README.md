@@ -7,6 +7,7 @@ I build end-to-end AI solutions covering data pipelines, model development, depl
 ## Core Skills
 - Python, SQL
 - Machine Learning & Deep Learning
+- LLMs
 - MLOps & CI/CD
 - FastAPI, Airflow, Kafka
 - AWS, Azure
