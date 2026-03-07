@@ -9,7 +9,8 @@ I build end-to-end AI solutions covering data pipelines, model development, depl
 - Machine Learning & Deep Learning
 - MLOps & CI/CD
 - FastAPI, Airflow, Kafka
-- AWS, Docker, Kubernetes, Terraform
+- AWS, Azure
+- Docker, Kubernetes, Terraform
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/chathuranga-sudusinghe
