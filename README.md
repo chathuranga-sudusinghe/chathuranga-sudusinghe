@@ -8,6 +8,7 @@ I build end-to-end AI solutions covering data pipelines, model development, depl
 - Python, SQL
 - Machine Learning & Deep Learning
 - LLMs, RAG
+- Agentic AI
 - MLOps & CI/CD
 - FastAPI, Airflow, Kafka
 - AWS, Azure
