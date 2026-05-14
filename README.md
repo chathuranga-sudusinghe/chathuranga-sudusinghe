@@ -1,6 +1,6 @@
 # Hi, I’m Chathuranga Sudusinghe
 
-AI Systems Engineer focused on production-grade ML, MLOps, and decision-centric AI systems.
+AI/ML Engineer | Generative AI & LLM | RAG & Agentic AI | Applied AI Systems | Production ML & MLOps.
 
 I build end-to-end AI solutions covering data pipelines, model development, deployment, monitoring, and cloud infrastructure.
 
