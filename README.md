@@ -16,7 +16,7 @@ My current focus is building enterprise-grade AI systems that are not just demos
 - Basic HTML, CSS, and JavaScript for AI application interfaces
 - MLOps, CI/CD, testing, evaluation
 - Docker, Kubernetes, Terraform
-- AWS, Azure
+- AWS, Azure, GCP
 - Airflow, Kafka
 - Data validation, monitoring, observability
 
