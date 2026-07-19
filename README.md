@@ -1,6 +1,6 @@
 # Hi, I’m Chathuranga Sudusinghe
 
-**AI/ML Engineering | Generative AI & LLM Systems | RAG, Agentic AI & MLOps | AI-Augmented System Builder**
+**AI/ML Engineer | Generative AI & LLM Systems | RAG, Agentic AI & MLOps | Enterprise AI-Augmented System Builder**
 
 I build production-oriented AI/ML systems that combine data pipelines, machine learning models, Generative AI, Retrieval-Augmented Generation (RAG), agentic workflows, APIs, evaluation, deployment, monitoring, and cloud-ready engineering.
 
