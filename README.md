@@ -1,6 +1,6 @@
 # Hi, I’m Chathuranga Sudusinghe
 
-**AI/ML Engineer | Applied AI Systems | Generative AI, Agents AI, RAG & LangGraph | Production ML, MLOps & AWS**
+**AI/ML Engineer | Applied AI Systems | Generative AI, Agentic AI, RAG & LangGraph | Production ML, MLOps & AWS**
 
 I build production-oriented AI/ML systems that combine data pipelines, machine learning models, Generative AI, Retrieval-Augmented Generation (RAG), agentic workflows, APIs, evaluation, deployment, monitoring, and cloud-ready engineering.
 
