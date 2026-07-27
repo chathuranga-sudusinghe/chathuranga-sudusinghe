@@ -16,15 +16,6 @@ My focus is on practical systems that are testable, measurable, maintainable, an
 - CI/CD, testing, monitoring
 - AWS, Airflow, Kafka
 
-## Current Focus
-
-- Enterprise AI/ML systems
-- Multimodal recommendation systems
-- RAG-grounded business applications
-- Agentic AI workflows
-- Production ML and MLOps
-- AI-augmented software engineering workflows
-
 ## Featured Projects
 
 - [Enterprise Fraud Detection ML System](https://github.com/chathuranga-sudusinghe/enterprise-fraud-detection-ml-system)
