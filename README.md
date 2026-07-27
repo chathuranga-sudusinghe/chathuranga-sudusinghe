@@ -1,4 +1,4 @@
-# Hi, I’m Chathuranga Sudusinghe
+# Hi, I’m Chathuranga Sudusinghe, MSCS
 
 **AI/ML Engineer | Applied AI Systems | Generative AI, Agentic AI, RAG & LangGraph | Production ML, MLOps & AWS**
 
