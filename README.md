@@ -37,5 +37,6 @@ My focus is on practical systems that are testable, measurable, maintainable, re
 
 [LinkedIn](https://linkedin.com/in/chathuranga-sudusinghe) |
 [Portfolio](https://chathuranga-ai-ml-portfolio.chathuranga-sudusin.chatgpt.site) |
+[ORCID](https://orcid.org/0009-0002-5255-0023) |
 [Kaggle](https://kaggle.com/indrajithsudusinghe) |
 [chathuranga.cont@gmail.com](mailto:chathuranga.cont@gmail.com)
