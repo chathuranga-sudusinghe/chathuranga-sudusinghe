@@ -19,15 +19,6 @@ My focus is on practical systems that are testable, measurable, maintainable, re
 - CI/CD, testing, monitoring, model versioning
 - AWS, Azure, Airflow, Kafka
 
-## Featured Projects
-
-- [Enterprise Fraud Detection ML System](https://github.com/chathuranga-sudusinghe/enterprise-fraud-detection-ml-system)
-- [Enterprise Decision Intelligence Platform](https://github.com/chathuranga-sudusinghe/enterprise-decision-intelligence-platform-edip)
-- [Enterprise Multimodal E-Commerce Recommender](https://github.com/chathuranga-sudusinghe/enterprise-multimodal-ecommerce-recommender)
-- [AWS Cloud Deployment & Observability Lab](https://github.com/chathuranga-sudusinghe/aws-cloud-deployment-observability-lab)
-- [ML Conversion Model – Azure Deployment](https://github.com/chathuranga-sudusinghe/ml-conversion-model-azure-deployment)
-- [Enterprise AI/ML Engineering Framework](https://github.com/chathuranga-sudusinghe/enterprise-ai-ml-engineering-framework)
-
 ## Professional Memberships
 
 - **IEEE & IEEE Computer Society — Professional Member**
