@@ -14,7 +14,6 @@ My current work includes enterprise knowledge automation, decision intelligence,
 - **Generative AI & RAG:** LLM applications, embeddings, vector retrieval, pgvector, grounded generation, citation validation
 - **Agentic AI & HITL:** LangChain, LangGraph, stateful workflows, tool calling, approval workflows, Human-in-the-Loop AI
 - **MCP & Governed Automation:** governed tool integration, controlled execution, safety gates, auditability
-- **LLM Fine-Tuning:** LoRA, QLoRA, parameter-efficient adaptation, biomedical and multimodal AI research
 - **Backend & Full-Stack AI:** Python, FastAPI, PostgreSQL, React, TypeScript, Next.js
 - **MLOps & Cloud:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, monitoring, AWS, Azure
 - **Trustworthy AI & Governance:** evidence sufficiency, abstention, deterministic controls, AI governance, auditability
