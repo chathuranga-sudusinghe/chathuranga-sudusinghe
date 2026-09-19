@@ -19,17 +19,6 @@ My current work includes enterprise knowledge automation, decision intelligence,
 - **Trustworthy AI & Governance:** evidence sufficiency, abstention, deterministic controls, AI governance, auditability
 - **Data & Workflow Engineering:** SQL, pandas, Kafka, Airflow, data validation, ETL, observability
 
-## Current Focus
-
-- **Vora Technologies** — Applied Research in AI-Native Company Automation, Governance & engineering architecture  
-  https://vora-technologies.com/
-
-- **Office Intelligence Automation Platform (OIAP)** — Governed RAG & Human-in-the-Loop Research
-  https://oiap.vora-technologies.com/
-
-- **Enterprise Decision Intelligence Platform (EDIP)** — trustworthy decision intelligence, HITL, governed workflows, and MCP integration  
-  https://edip.vora-technologies.com/docs
-
 ## Professional Registrations & Memberships
 
 - **BCS Advanced RITTech — Professional Registration**
