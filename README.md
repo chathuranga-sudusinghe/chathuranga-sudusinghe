@@ -21,10 +21,10 @@ My current work includes enterprise knowledge automation, decision intelligence,
 
 ## Current Focus
 
-- **Vora Technologies** — AI-native company platform, governance, cloud, and engineering architecture  
+- **Vora Technologies** — Applied Research in AI-Native Company Automation, Governance & engineering architecture  
   https://vora-technologies.com/
 
-- **Office Intelligence Automation Platform (OIAP)** — deployed governed HR RAG assistant on AWS  
+- **Office Intelligence Automation Platform (OIAP)** — Governed RAG & Human-in-the-Loop Research
   https://oiap.vora-technologies.com/
 
 - **Enterprise Decision Intelligence Platform (EDIP)** — trustworthy decision intelligence, HITL, governed workflows, and MCP integration  
