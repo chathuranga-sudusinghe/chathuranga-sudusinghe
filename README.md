@@ -34,8 +34,7 @@ My current work includes enterprise knowledge automation, decision intelligence,
 
 - **BCS Advanced RITTech — Professional Registration**
 - **BCS, The Chartered Institute for IT — Professional Member (MBCS)**
-- **IEEE — Professional Member**
-- **IEEE Computer Society — Professional Member**
+- **IEEE & IEEE Computer Society — Professional Member**
 
 ## Research Interests
 
