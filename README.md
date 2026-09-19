@@ -1,6 +1,6 @@
-# Hi, I’m Chathuranga Sudusinghe, Advanced RITTech MBCS
+# Hi, I’m Chathuranga Sudusinghe
 
-**AI/ML Engineer | Applied AI Researcher | Full-Stack AI Systems | Generative AI, RAG & Agentic AI | Human-in-the-Loop AI | MLOps | AWS & Azure**
+**AI/ML Engineer | Applied AI Researcher | Advanced RITTech MBCS | Full-Stack AI Systems | Generative AI, RAG & Agentic AI | Human-in-the-Loop AI | MLOps | AWS & Azure**
 
 Advanced RITTech registered professional and Professional Member of **BCS, The Chartered Institute for IT (MBCS)**, and Professional Member of **IEEE and the IEEE Computer Society**.
 
