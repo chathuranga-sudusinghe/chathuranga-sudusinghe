@@ -1,32 +1,50 @@
-# Hi, I’m Chathuranga Sudusinghe, MBCS
+# Hi, I’m Chathuranga Sudusinghe, Advanced RITTech MBCS
 
-**AI/ML Engineer | Applied AI Systems | Generative AI, RAG & Agentic AI | Human-in-the-Loop AI | Production ML, MLOps | AWS & Azure**
+**AI/ML Engineer | Applied AI Researcher | Full-Stack AI Systems | Generative AI, RAG & Agentic AI | Human-in-the-Loop AI | MLOps | AWS & Azure**
 
-Professional Member of the **IEEE Computer Society** and **BCS, The Chartered Institute for IT (MBCS)**.
+Advanced RITTech registered professional and Professional Member of **BCS, The Chartered Institute for IT (MBCS)**, and Professional Member of **IEEE and the IEEE Computer Society**.
 
-I build production-oriented AI/ML systems across machine learning, LLM applications, RAG, agentic workflows, Human-in-the-Loop AI, FastAPI services, MLOps, and cloud deployment.
+I design and build end-to-end, production-oriented AI systems across Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, Human-in-the-Loop AI, multimodal AI, LLM fine-tuning, MLOps, cloud engineering, and trustworthy AI.
 
-My focus is on practical systems that are testable, measurable, maintainable, reliable, and ready for real-world deployment.
+My current work includes enterprise knowledge automation, decision intelligence, governed AI workflows, MCP integrations, multimodal recommendation systems, fraud detection, and applied AI research.
 
 ## Core Skills
 
-- Python, SQL, FastAPI
-- Machine Learning & Deep Learning
-- Generative AI, LLMs, RAG
-- LangChain, LangGraph, Agentic AI
-- Human-in-the-Loop AI and approval workflows
-- Docker, Kubernetes, Terraform
-- CI/CD, testing, monitoring, model versioning
-- AWS, Azure, Airflow, Kafka
+- **AI/ML Engineering:** Machine Learning, Deep Learning, model evaluation, feature engineering, recommendation systems
+- **Generative AI & RAG:** LLM applications, embeddings, vector retrieval, pgvector, grounded generation, citation validation
+- **Agentic AI & HITL:** LangChain, LangGraph, stateful workflows, tool calling, approval workflows, Human-in-the-Loop AI
+- **MCP & Governed Automation:** governed tool integration, controlled execution, safety gates, auditability
+- **LLM Fine-Tuning:** LoRA, QLoRA, parameter-efficient adaptation, biomedical and multimodal AI research
+- **Backend & Full-Stack AI:** Python, FastAPI, PostgreSQL, React, TypeScript, Next.js
+- **MLOps & Cloud:** Docker, Kubernetes, Terraform, GitHub Actions, CI/CD, monitoring, AWS, Azure
+- **Trustworthy AI & Governance:** evidence sufficiency, abstention, deterministic controls, AI governance, auditability
+- **Data & Workflow Engineering:** SQL, pandas, Kafka, Airflow, data validation, ETL, observability
 
-## Professional Memberships
+## Current Focus
 
-- **IEEE & IEEE Computer Society — Professional Member**
+- **Vora Technologies** — AI-native company platform, governance, cloud, and engineering architecture  
+  https://vora-technologies.com/
+
+- **Office Intelligence Automation Platform (OIAP)** — deployed governed HR RAG assistant on AWS  
+  https://oiap.vora-technologies.com/
+
+- **Enterprise Decision Intelligence Platform (EDIP)** — trustworthy decision intelligence, HITL, governed workflows, and MCP integration  
+  https://edip.vora-technologies.com/docs
+
+## Professional Registrations & Memberships
+
+- **BCS Advanced RITTech — Professional Registration**
 - **BCS, The Chartered Institute for IT — Professional Member (MBCS)**
+- **IEEE — Professional Member**
+- **IEEE Computer Society — Professional Member**
+
+## Research Interests
+
+Trustworthy Human-in-the-Loop multi-agent systems, reliable RAG, AI governance, evidence sufficiency and abstention, safe execution, LLM adaptation, and auditable enterprise AI.
 
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/chathuranga-sudusinghe) |
 [ORCID](https://orcid.org/0009-0002-5255-0023) |
 [Kaggle](https://kaggle.com/indrajithsudusinghe) |
-[chathuranga.cont@gmail.com](mailto:chathuranga.cont@gmail.com)
+[Email](mailto:chathuranga.cont@gmail.com)
